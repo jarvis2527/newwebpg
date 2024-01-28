@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+h1{
+    margin: 4%;
+    color: white;
+}
+.button1 {
+    margin-left: 20%;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.button2 {
+    margin-left: 20%;
+    background-color: hwb(60 2% 3%);
+    color: black;
+    padding: 10px 40px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+.button3 {
+    margin-left: 20%;
+    background-color: #0c9e0c;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+
+}
