@@ -1,0 +1,51 @@
+body{
+    background-color:white;
+}
+.button {
+    margin: 20px 20px;
+    color: white;
+    background-color: green;
+    padding: 15px 20px;
+    box-shadow: 3px 3px 10px black;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+    
+}
+.button1 {
+    margin: 20px 20px;
+    color: white;
+    background-color: green;
+    padding: 12px 30px;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+
+}
+.button2 {
+    margin: 20px 20px;
+    color: white;
+    background-color: green;
+    padding: 12px 30px;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+}
+.button3 {
+    margin: 20px 20px;
+    color: white;
+    background-color: green;
+    padding: 12px 30px;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+}
+.button4 {
+    margin: 20px 20px;
+    color: white;
+    background-color: green;
+    padding: 12px 20px;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+}
